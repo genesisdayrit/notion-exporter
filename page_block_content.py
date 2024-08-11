@@ -8,7 +8,7 @@ load_dotenv()
 
 # Get the API key from environment variables
 api_key = os.getenv('NOTION_API_KEY')
-page_id = "d7513d0a-cdeb-4999-8efb-a5196b2483dc"  # The ID
+page_id = "d7513d0a-cdeb-4999-8efb-a5196b2483dc"
 
 # URL for fetching the page metadata
 page_url = f"https://api.notion.com/v1/pages/{page_id}"
