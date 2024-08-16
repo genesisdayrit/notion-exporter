@@ -6,3 +6,5 @@ __pycache__/
 test/
 
 test-output.md
+
+paths_to_clean.txt
