@@ -8,3 +8,6 @@ test/
 test-output.md
 
 paths_to_clean.txt
+
+mappings.txt
+migration_log.txt
